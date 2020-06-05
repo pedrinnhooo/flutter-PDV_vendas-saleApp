@@ -1,0 +1,116 @@
+{
+  "cadastro": {
+    "incluirNovo": "Incluir Novo"
+  },
+  "cadastroCategoria": {
+    "titulo": "Categoria"
+  },
+  "cadastroCliente": {
+    "titulo": "Cliente"
+  },
+  "cadastroContato": {
+    "titulo": "Contato"
+  },
+  "cadastroGrade": {
+    "titulo": "Grade"
+  },
+  "cadastroLoja": {
+    "titulo": "Loja"
+  },
+  "cadastroPrecoTabela": {
+    "titulo": "Tabela de preço"
+  },
+  "cadastroProduto": {
+    "titulo": "Produto"
+  },
+  "cadastroTerminal": {
+    "titulo": "Terminal"
+  },
+  "cadastroTipoPagamento": {
+    "titulo": "Tipo de Pagamento"
+  },
+  "cadastroTransacao": {
+    "titulo": "Transação"
+  },
+  "cadastroVariante": {
+    "titulo": "Variante"
+  },
+  "cadastroVendedor": {
+    "titulo": "Vendedor"
+  },
+  "mensagem": {
+    "nomeNaoNulo": "Nome não pode ser nulo",
+    "confirmarExcluirRegistro": "Deseja excluir ",
+    "codigoInvalido": "Código incorreto",
+    "precoCustoInvalido": "Preço custo inválido",
+    "precoVendaInvalido": "Preço de venda inválido",
+    "usernameIncorreto": "Usuário inválido",
+    "senhaIncorreta": "Senha incorreta",
+    "senhasDiferentes": "Senhas diferentes",
+    "emailIncorreto": "Email incorreto"
+  },
+  "palavra": {
+    "excluir": "Excluir",
+    "pesquisar": "Pesquisar",
+    "alterar": "Alterar",
+    "limpar": "Limpar",
+    "nome": "Nome",
+    "cancelar": "Cancelar",
+    "gravar": "Gravar",
+    "confirmacao": "Confirmação",
+    "artigo_a": "a",
+    "artigo_o": "o",
+    "erro": "Erro",
+    "posicao": "Posição",
+    "selecione": "Selecione",
+    "nomeFantasia": "Fantasia",
+    "razaoSocial": "Razão social",
+    "cnpj": "CNPJ",
+    "cpf": "CPF",
+    "ie": "IE",
+    "im": "IM",
+    "endereco": "Endereço",
+    "numero": "Número",
+    "cidade": "Cidade",
+    "bairro": "Bairro",
+    "estado": "Estado",
+    "pais": "País",
+    "pessoaFisica": "Pessoa física",
+    "pessoaJuridica": "Pessoa jurídica",
+    "telefone": "Telefone",
+    "email": "Email",
+    "cep": "CEP",
+    "senha": "Senha",
+    "ddd": "DDD",
+    "apelido": "Apelido",
+    "rg": "RG",
+    "precoVenda": "Preço de venda",
+    "precoCusto": "Preço de custo",
+    "codigo": "Código",
+    "entrada": "Entrada",
+    "saida": "Saída",
+    "saldo": "Saldo",
+    "ticketMedio": "Ticket médio",
+    "qtdVendas": "Qtd vendas",
+    "itensVendidos": "Itens vendidos",
+    "totalLiquido": "Total líquido",
+    "abertura": "Abertura",
+    "reforco": "Reforço",
+    "sangria": "Sangria",
+    "vendas": "Vendas",
+    "recebimento": "Recebimento",
+    "usuario": "Usuário",
+    "login": "Entrar"
+  },
+  "telaCadastroUsuario": {
+    "redigiteASenha": "Re-digite a senha"
+  },
+  "telaLogin": {
+    "ouEntreCom": "ou entre com",
+    "criarConta": "Criar conta"
+  },
+  "telaMovimentoCaixa": {
+    "titulo": "Movimento de caixa",
+    "resumoDeVendas": "Resumo de vendas"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "327186334266",
+    "firebase_url": "https://teste-flutter-cf239.firebaseio.com",
+    "project_id": "teste-flutter-cf239",
+    "storage_bucket": "teste-flutter-cf239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327186334266:android:0200d420176c8f4f772b03",
+        "android_client_info": {
+          "package_name": "com.example.fluggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327186334266-ln9egpimlk3jflel1hmptkefe5e8u91o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluggy",
+            "certificate_hash": "e4572d9c17fd58b89489a423731d79a5beb34f4f"
+          }
+        },
+        {
+          "client_id": "327186334266-lgsutuhq3sbn5q7bqeev38fl5lu5rljn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluggy",
+            "certificate_hash": "d7c1162b20b3ff99a8b3b2b37aee0fde1837608c"
+          }
+        },
+        {
+          "client_id": "327186334266-b4qjgkkr05bitbjkhnrdm4i2fjc5sv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2x2S7T8xbMweFUhxBUqI7ID4jGf6S7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327186334266-b4qjgkkr05bitbjkhnrdm4i2fjc5sv0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327186334266-g7epetlh9pnp91jetq51rl6vh5vmd19j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluggy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

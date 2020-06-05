@@ -1,0 +1,112 @@
+{
+  "cadastro": {
+    "incluirNovo": ""
+  },
+  "cadastroCategoria": {
+    "titulo": ""
+  },
+  "cadastroCliente": {
+    "titulo": ""
+  },
+  "cadastroContato": {
+    "titulo": ""
+  },
+  "cadastroGrade": {
+    "titulo": ""
+  },
+  "cadastroLoja": {
+    "titulo": ""
+  },
+  "cadastroPrecoTabela": {
+    "titulo": ""
+  },
+  "cadastroProduto": {
+    "titulo": ""
+  },
+  "cadastroTerminal": {
+    "titulo": ""
+  },
+  "cadastroTipoPagamento": {
+    "titulo": ""
+  },
+  "cadastroTransacao": {
+    "titulo": ""
+  },
+  "cadastroVariante": {
+    "titulo": ""
+  },
+  "cadastroVendedor": {
+    "titulo": ""
+  },
+  "mensagem": {
+    "nomeNaoNulo": "",
+    "confirmarExcluirRegistro": "",
+    "codigoInvalido": "",
+    "precoCustoInvalido": "",
+    "precoVendaInvalido": "",
+    "usernameIncorreto": "",
+    "senhaIncorreta": ""
+  },
+  "palavra": {
+    "excluir": "",
+    "pesquisar": "",
+    "alterar": "",
+    "limpar": "",
+    "nome": "",
+    "cancelar": "",
+    "gravar": "",
+    "confirmacao": "",
+    "artigo_a": "",
+    "artigo_o": "",
+    "erro": "",
+    "posicao": "",
+    "selecione": "",
+    "nomeFantasia": "",
+    "razaoSocial": "",
+    "cnpj": "",
+    "cpf": "",
+    "ie": "",
+    "im": "",
+    "endereco": "",
+    "numero": "",
+    "cidade": "",
+    "bairro": "",
+    "estado": "",
+    "pais": "",
+    "pessoaFisica": "",
+    "pessoaJuridica": "",
+    "telefone": "",
+    "email": "",
+    "cep": "",
+    "senha": "",
+    "ddd": "",
+    "apelido": "",
+    "rg": "",
+    "precoVenda": "",
+    "precoCusto": "",
+    "codigo": "",
+    "entrada": "",
+    "saida": "",
+    "saldo": "",
+    "ticketMedio": "",
+    "qtdVendas": "",
+    "itensVendidos": "",
+    "totalLiquido": "",
+    "abertura": "",
+    "reforco": "",
+    "sangria": "",
+    "vendas": "",
+    "recebimento": "",
+    "usuario": "",
+    "login": ""
+  },
+  "telaCadastroUsuario": {},
+  "telaLogin": {
+    "ouEntreCom": "",
+    "criarConta": ""
+  },
+  "telaMovimentoCaixa": {
+    "titulo": "",
+    "resumoDeVendas": ""
+  }
+}

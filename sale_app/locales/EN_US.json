@@ -1,0 +1,116 @@
+{
+  "cadastro": {
+    "incluirNovo": "Add New"
+  },
+  "cadastroCategoria": {
+    "titulo": "Category"
+  },
+  "cadastroCliente": {
+    "titulo": "Customer"
+  },
+  "cadastroContato": {
+    "titulo": "Contact"
+  },
+  "cadastroGrade": {
+    "titulo": "Grid"
+  },
+  "cadastroLoja": {
+    "titulo": "Store"
+  },
+  "cadastroPrecoTabela": {
+    "titulo": "Price table"
+  },
+  "cadastroProduto": {
+    "titulo": "Product"
+  },
+  "cadastroTerminal": {
+    "titulo": "Terminal"
+  },
+  "cadastroTipoPagamento": {
+    "titulo": "Type of Payment"
+  },
+  "cadastroTransacao": {
+    "titulo": "Transaction"
+  },
+  "cadastroVariante": {
+    "titulo": "Variant"
+  },
+  "cadastroVendedor": {
+    "titulo": "Salesperson"
+  },
+  "mensagem": {
+    "nomeNaoNulo": "Name must not be null",
+    "confirmarExcluirRegistro": "Do you want to delete ",
+    "codigoInvalido": "Codigo incorrecto",
+    "precoCustoInvalido": "Invalid cost price",
+    "precoVendaInvalido": "Precio de venta inválido",
+    "usernameIncorreto": "Incorrect username",
+    "senhaIncorreta": "Wrong password",
+    "senhasDiferentes": "Passwords do not match",
+    "emailIncorreto": "Incorrect email"
+  },
+  "palavra": {
+    "excluir": "Delete",
+    "pesquisar": "Search",
+    "alterar": "Alter",
+    "limpar": "Clean",
+    "nome": "Name",
+    "cancelar": "Cancel",
+    "gravar": "Save",
+    "confirmacao": "Confirmation",
+    "artigo_a": "the",
+    "artigo_o": "the",
+    "erro": "Error",
+    "posicao": "Position",
+    "selecione": "Select",
+    "nomeFantasia": "Fantasia",
+    "razaoSocial": "Razão social",
+    "cnpj": "CNPJ",
+    "cpf": "Social security",
+    "ie": "IE",
+    "im": "IM",
+    "endereco": "Street adress",
+    "numero": "Number",
+    "cidade": "City",
+    "bairro": "Neighborhood",
+    "estado": "Estate",
+    "pais": "Country",
+    "pessoaFisica": "Pessoa física",
+    "pessoaJuridica": "Pessoa jurídica",
+    "telefone": "Phone number",
+    "email": "Email",
+    "cep": "Zip code",
+    "senha": "Password",
+    "ddd": "Area code",
+    "apelido": "Nickname",
+    "rg": "ID",
+    "precoVenda": "Sale price",
+    "precoCusto": "Cost price",
+    "codigo": "ID",
+    "entrada": "Input",
+    "saida": "Exit",
+    "saldo": "Balance",
+    "ticketMedio": "Boleto promedio",
+    "qtdVendas": "Sales amount",
+    "itensVendidos": "Sold itens",
+    "totalLiquido": "Net total",
+    "abertura": "Opening",
+    "reforco": "Reinforcement",
+    "sangria": "Bleed",
+    "vendas": "Sales",
+    "recebimento": "Receipt",
+    "usuario": "Username",
+    "login": "Login"
+  },
+  "telaCadastroUsuario": {
+    "redigiteASenha": "Retype password"
+  },
+  "telaLogin": {
+    "ouEntreCom": "or enter with",
+    "criarConta": "Create account"
+  },
+  "telaMovimentoCaixa": {
+    "titulo": "Sales management",
+    "resumoDeVendas": "Sales summary"
+  }
+}
