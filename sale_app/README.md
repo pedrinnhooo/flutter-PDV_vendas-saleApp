@@ -1,4 +1,4 @@
-# fluggy_app
+# PDV vendas
 
 A new Flutter project.
 
